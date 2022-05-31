@@ -1,0 +1,9 @@
+:root{
+    --mantenimiento-color: #456486;
+}
+
+
+body {
+    background-color: var(--mantenimiento-color);
+}
+
